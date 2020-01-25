@@ -14,7 +14,7 @@ Instruções para a adição deste repo:
     <li>Voltar para Addons,mas desta vez, selecionar "Instalar do repositório"</li>
     <li>Selecionar o "flechanegra Repository"</li>
     
-    Agora o resto fica á vossa escolha
+                                       !!!Agora o resto fica á vossa escolha!!!
   </ul>
 </p>
 
