@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.flechanegra_matrix" name="[COLOR red]Flecha[/COLOR] [COLOR black]Negra[/COLOR]_[COLOR cyan]Matrix[/COLOR] Repository" version="19.0" provider-name="Flecha Negra">
+<addon id="repository.flechanegra_matrix" name="[COLOR red]Flecha[/COLOR] [COLOR black]Negra[/COLOR].[COLOR cyan]Matrix[/COLOR] Repository" version="19.0" provider-name="Flecha Negra">
 	<requires>
         
 		<import addon="xbmc.addon" version="12.0.0"/>
