@@ -13,17 +13,17 @@
         <import addon="script.module.simple.downloader" version="0.9.4"/>
         <import addon="plugin.video.youtube" version="5.2.1" />
         <import addon="script.module.urlresolver" />
-        <import addon="script.module.simplejson" />    
+        <import addon="script.module.simplejson" />
         <import addon="script.module.livestreamer"/>
         <import addon="script.module.pyamf"/>
         <import addon="script.common.plugin.cache" version="2.5.2"/>
         <import addon="script.module.metahandler" version="3.0.3"/>
       <import addon="script.module.addon.common" />
       <import addon="script.module.addon.signals" version="0.0.1"/>
-      <import addon="script.module.youtube.dl" optional="true"/>  
+      <import addon="script.module.youtube.dl" optional="true"/>
   </requires>
   <extension point="xbmc.addon.repository" name="[COLOR red]Flecha Negra [COLOR red]repositorio[/COLOR]">
-        
+
     <dir minversion="17.9.0">
       <info compressed="false">https://raw.githubusercontent.com/flechanegra/repository.flechanegra/master/addons.xml</info>
       <checksum>https://raw.githubusercontent.com/flechanegra/repository.flechanegra/master/addons.xml.md5</checksum>
@@ -38,3 +38,4 @@
     <news>[I]v1.2[/I][CR]- Suporte para uma Skin!</news>
   </extension>
 </addon>
+</addons>
