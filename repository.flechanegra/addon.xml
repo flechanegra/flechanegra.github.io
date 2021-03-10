@@ -13,8 +13,8 @@
         <import addon="plugin.video.youtube"  />
         <import addon="script.module.urlresolver" />
         <import addon="script.module.simplejson" />    
-        <import addon="script.module.livestreamer"/>
-        <import addon="script.module.pyamf"/>
+        <import addon="script.module.livestreamer" />
+        <import addon="script.module.pyamf" />
         <import addon="script.common.plugin.cache" />
         <import addon="script.module.metahandler" />
         <import addon="script.module.metahandler" />
@@ -24,7 +24,12 @@
   </requires>
   <extension point="xbmc.addon.repository" name="[COLOR red]Flecha Negra [COLOR red]repositorio[/COLOR]">
         
-    <dir minversion="17.0.0" maxversion="18.9.0">
+    <dir minversion="17.0.0">
+      <info compressed="false">https://raw.githubusercontent.com/flechanegra/repository.flechanegra/master/addons.xml</info>
+      <checksum>https://raw.githubusercontent.com/flechanegra/repository.flechanegra/master/addons.xml.md5</checksum>
+      <datadir zip="true">https://raw.githubusercontent.com/flechanegra/repository.flechanegra/master</datadir>
+    </dir>
+    <dir minversion="18.1.0">
       <info compressed="false">https://raw.githubusercontent.com/flechanegra/repository.flechanegra/master/addons.xml</info>
       <checksum>https://raw.githubusercontent.com/flechanegra/repository.flechanegra/master/addons.xml.md5</checksum>
       <datadir zip="true">https://raw.githubusercontent.com/flechanegra/repository.flechanegra/master</datadir>
